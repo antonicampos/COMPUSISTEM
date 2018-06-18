@@ -13,7 +13,7 @@ footer h2,h3{
 }
 
 footer{
-    background: #464643;
+    background:#F2F2F2 ;
     text-align: center;
     padding-bottom: 50px;
 }
@@ -21,7 +21,7 @@ footer{
 
 footer p{
    text-align: justify;
-    color: black;
+    color: #086A87;
 }
 
 ul.redessociales li{
@@ -48,4 +48,21 @@ p.contactenos{
     text-align: center;
     margin-top: 20px;
     
+}
+.mb-0{
+    color:#fff;
+}
+
+.compusistem{
+    color:black;
+}
+.enlaces{
+    color:black;
+
+}
+.productos{
+    color:black;
+}
+.contacto{
+    color:black;
 }
